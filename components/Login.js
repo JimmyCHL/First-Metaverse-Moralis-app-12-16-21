@@ -9,7 +9,7 @@ const Login = () => {
       <div className="flex flex-col absolute w-full z-50 h-4/6 items-center justify-center space-y-4">
         <Image
           className="object-cover rounded-full"
-          src="https://links.papareact.com/3pi"
+          src="https://www.impactlab.com/wp-content/uploads/2019/05/8F5D09E9-C3B8-44A4-B5AB-77B9E43274D4.jpeg"
           height={200}
           width={200}
         />
